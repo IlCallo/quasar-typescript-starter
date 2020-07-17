@@ -1,5 +1,7 @@
 # quasar-typescript-starter
 
+> THIS REPOSITORY WAS A PROOF OF CONCEPT AND MOST OF ITS FEATURES HAS BEEN INTEGRATED DIRECTLY INTO QUASAR, IT IS OUT OF DATE AND DOES NOT REFLECT THE CURRENT QUASAR-TYPESCRIPT INTEGRATION STATUS, EVEN IF YOU CAN USE IT AS A GOOD RESOURCE ON TYPESCRIPT QUIRKS. 
+
 Most of the stuff is copied from TypeScript app-extension to which I previously contributed.
 Especially webpack configuration extension has been taken from there and I cannot guarantee it's the best way to manage it, not having done it myself, but it works.
 
